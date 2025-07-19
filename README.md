@@ -1,5 +1,5 @@
 # hyperbandit
-Currently : Phase 1 
+## Phase 1 ( CURRENT )   
 Introduction : Laying the Cornerstone for Production. The initial phase of the HyperBandit project is the most consequential. The architectural decisions and configurations established here form the bedrock upon which the entire platform's stability, scalability, and maintainability will rest. The project vision emphasizes a "production-first mentality," a principle that will guide every action in this foundational stage
 This section provides an exhaustive guide to architecting a professional local development environment that mirrors production, establishing rigorous and automated code quality standards, and provisioning a secure, scalable, and fully reproducible cloud infrastructure on Google Cloud Platform (GCP) using Infrastructure as Code (IaC). This meticulous approach is designed to de-risk the project by minimizing deployment friction, preventing configuration drift, and ultimately accelerating the entire development lifecycle from data engineering to model serving.
 
